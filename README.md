@@ -1,5 +1,5 @@
 # sentiment-analysis-nltk
-🔍 Overview
+
 This project uses Natural Language Processing (NLP) and a Random Forest Classifier to classify text comments into 3 emotion categories: anger, fear, and joy.
 
 🧠 Technologies
