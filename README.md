@@ -28,7 +28,8 @@ This project uses Natural Language Processing (NLP) and a Random Forest Classifi
 
 📁 Dataset
 
-from kaggle :("/kaggle/input/emotion-dataset/Emotion_classify_Data.csv")
+This dataset was downloaded from Kaggle:
+("/kaggle/input/emotion-dataset/Emotion_classify_Data.csv")
 
 
 
